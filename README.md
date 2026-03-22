@@ -20,6 +20,11 @@ After 4 months of continuous learning and hands-on work, I built a complete data
 📂 File Upload → ☁️ Cloud Storage → ⚙️ Automated Processing → 🗄️ Database → 📊 Dashboard
 <img width="1116" height="362" alt="image" src="https://github.com/user-attachments/assets/3488e1b7-3c1b-4127-9bd5-75026487875a" />
 
+Invoice for clarification:
+📌 Note: The invoice data displayed above has been intentionally blurred to protect the confidentiality of the company and comply with data privacy standards. All sensitive information, including supplier details, pricing, and company identifiers, has been anonymised before sharing.
+<img width="973" height="633" alt="image" src="https://github.com/user-attachments/assets/cfbc1542-8e5c-43ab-9c58-aee44735e317" />
+
+
 
 Using:
 - Amazon S3 for secure file storage
