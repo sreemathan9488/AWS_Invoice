@@ -16,7 +16,11 @@ But this raised important concerns from management:
 At that point, I didn’t have all the answers.
 That’s when I started exploring Amazon Web Services.
 After 4 months of continuous learning and hands-on work, I built a complete data pipeline:
+
 📂 File Upload → ☁️ Cloud Storage → ⚙️ Automated Processing → 🗄️ Database → 📊 Dashboard
+<img width="1116" height="362" alt="image" src="https://github.com/user-attachments/assets/3488e1b7-3c1b-4127-9bd5-75026487875a" />
+
+
 Using:
 - Amazon S3 for secure file storage
 - Amazon SQS for event-driven processing
