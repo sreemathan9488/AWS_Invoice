@@ -37,6 +37,17 @@ Using:
 - Identified which product categories generate the highest profit
 - Compared current purchases with previous cycles to highlight changes and patterns
 
+Sample Visualization:
+
+<img width="1302" height="820" alt="image" src="https://github.com/user-attachments/assets/a24980f4-15ea-40e6-81a0-1023f542bcde" />
+
+
+AWS_S3 Preview:
+
+<img width="1915" height="808" alt="image" src="https://github.com/user-attachments/assets/6c4c744c-3f9b-4fcc-a638-327db8cd15d1" />
+
+
+
 This project was more than just technical implementation — it taught me how to:
 - Think from a business perspective
 - Address data security and access control
